@@ -1,0 +1,13 @@
+{
+    "name": "@ys319/squashify",
+    "description": "Force shrink dom element to viewport",
+    "license": "MIT",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "github:ys319/squashify.js"
+    },
+    "publishConfig": {
+        "@ys319:registry": "https://npm.pkg.github.com"
+    }
+}

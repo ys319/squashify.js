@@ -1,0 +1,13 @@
+{
+    "tasks": {
+        "build": "deno run -A build.ts"
+    },
+    "compilerOptions": {
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "dom.asynciterable",
+            "deno.ns"
+        ]
+    }
+}
